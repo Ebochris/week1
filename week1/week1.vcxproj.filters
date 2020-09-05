@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Quelle.cpp">
+    <ClCompile Include="myAnimals.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
